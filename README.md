@@ -11,7 +11,7 @@
 * FuncionarioHorista: o bônus é calculado como 10% do total anual recebido pelo funcionário.
 
 
-[Diagrama Classe Estatica](assets/DiagramaUML.png).
+[Diagrama Classe Estatica](assets/DiagramaUML.png)
 
 🛠️ Construído com:
 
